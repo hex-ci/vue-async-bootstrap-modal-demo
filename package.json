@@ -1,7 +1,7 @@
 {
   "name": "vue-async-bootstrap-modal-demo",
   "version": "1.0.0",
-  "description": "A Vue.js async modal project",
+  "description": "A Vue.js async bootstrap modal demo",
   "author": "Hex <hex@codeigniter.org.cn>",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
